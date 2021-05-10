@@ -1,0 +1,144 @@
+16:43:56.789950 new game started
+18:55:56.115753 new game started
+18:57:52.039545 new game started
+18:58:39.337036 new game started
+18:59:39.678076 new game started
+19:00:09.518710 new game started
+19:00:34.710888 new game started
+19:37:34.054304 new game started
+22:30:14.271906 new game started
+22:42:56.983326 new game started
+22:43:31.345477 new game started
+22:45:43.860577 new game started
+22:46:15.057634 new game started
+22:46:39.681313 Graph was connected successfully.
+22:46:39.686048 Map was validated successfully
+22:46:39.689175 Graph was connected successfully.
+22:46:39.689377 Map was validated successfully
+01:49:38.069596 new game started
+01:50:11.029286 Graph was connected successfully.
+01:54:24.090568 new game started
+01:55:18.384870 Graph was connected successfully.
+03:02:13.062912 new game started
+03:02:34.770193 Graph was connected successfully.
+03:02:34.770531 Map was validated successfully
+03:02:34.773575 Graph was connected successfully.
+03:02:34.773792 Map was validated successfully
+04:40:37.359916 new game started
+04:41:06.239277 new game started
+04:41:42.021545 Graph was connected successfully.
+04:41:42.021826 Map was validated successfully
+04:41:42.023852 Graph was connected successfully.
+04:41:42.024007 Map was validated successfully
+15:22:03.579526 Graph was not validated successfully
+15:22:03.598717 Graph was connected successfully.
+15:22:03.599597 Graph was not validated successfully
+15:22:03.600862 Graph was connected successfully.
+15:22:03.601025 Map was validated successfully
+15:30:18.143691 Graph was not validated successfully
+15:30:18.169214 Graph was connected successfully.
+15:30:18.170132 Graph was not validated successfully
+15:30:18.171433 Graph was connected successfully.
+15:30:18.171640 Map was validated successfully
+15:39:36.905138 Graph was not validated successfully
+15:39:36.908656 Graph was connected successfully.
+15:39:36.909734 Graph was not validated successfully
+15:39:36.911269 Graph was connected successfully.
+15:39:36.911464 Map was validated successfully
+15:39:36.912413 Graph was not validated successfully
+15:39:36.912716 Map was not saved successfully.
+15:42:35.632224 Graph was not validated successfully
+15:42:35.634702 Map was not saved successfully.
+15:42:35.651283 Graph was not validated successfully
+15:42:35.653006 Graph was connected successfully.
+15:42:35.653765 Graph was not validated successfully
+15:42:35.654940 Graph was connected successfully.
+15:42:35.655075 Map was validated successfully
+15:42:35.656006 Graph was not validated successfully
+15:42:35.656201 Map was not saved successfully.
+15:45:00.276702 Graph was not validated successfully
+15:45:00.280973 Graph was connected successfully.
+15:45:00.281618 Graph was not validated successfully
+15:45:00.282734 Graph was connected successfully.
+15:45:00.282866 Map was validated successfully
+15:45:00.283675 Graph was not validated successfully
+15:45:00.283885 Map was not saved successfully.
+15:47:50.977448 Graph was connected successfully.
+15:47:50.999735 Graph was not validated successfully
+15:47:51.001603 Graph was connected successfully.
+15:47:51.002556 Graph was not validated successfully
+15:47:51.004281 Graph was connected successfully.
+15:47:51.004474 Map was validated successfully
+15:47:51.005830 Graph was not validated successfully
+15:47:51.006181 Map was not saved successfully.
+15:48:23.402861 Graph was connected successfully.
+15:48:23.420234 Graph was not validated successfully
+15:48:23.422901 Graph was connected successfully.
+15:48:23.424135 Graph was not validated successfully
+15:48:23.427683 Graph was connected successfully.
+15:48:23.427837 Map was validated successfully
+15:48:23.428828 Graph was not validated successfully
+15:48:23.429186 Map was not saved successfully.
+15:49:51.810920 Graph was not validated successfully
+15:49:51.815886 Graph was connected successfully.
+15:49:51.816756 Graph was not validated successfully
+15:49:51.819145 Graph was connected successfully.
+15:49:51.819704 Map was validated successfully
+15:49:51.822884 Graph was not validated successfully
+15:49:51.823435 Map was not saved successfully.
+15:51:05.462073 Graph was not validated successfully
+15:51:22.731556 Graph was connected successfully.
+15:51:22.734101 Graph was not validated successfully
+15:51:24.672406 Graph was connected successfully.
+15:51:26.592651 Map was validated successfully
+15:51:37.970706 Graph was not validated successfully
+15:51:37.971613 Map was not saved successfully.
+15:52:09.071021 Graph was connected successfully.
+15:52:09.081500 Map was validated successfully
+15:52:09.095565 Graph was not validated successfully
+15:52:09.100894 Graph was connected successfully.
+15:52:09.102196 Graph was not validated successfully
+15:52:09.107846 Graph was connected successfully.
+15:52:09.108067 Map was validated successfully
+15:52:09.110310 Graph was not validated successfully
+15:52:09.110774 Map was not saved successfully.
+15:56:36.802998 Graph was connected successfully.
+15:56:36.805538 Map was validated successfully
+15:56:36.815308 Graph was not validated successfully
+15:56:36.817236 Graph was connected successfully.
+15:56:36.818144 Graph was not validated successfully
+15:56:36.818984 Graph was not validated successfully
+15:56:36.823218 Graph was connected successfully.
+15:56:36.823413 Map was validated successfully
+15:56:36.824697 Graph was not validated successfully
+15:56:36.825038 Map was not saved successfully.
+15:57:07.854666 Graph was connected successfully.
+15:57:07.864087 Map was validated successfully
+15:57:07.871514 Graph was not validated successfully
+15:57:07.873846 Graph was connected successfully.
+15:57:07.874898 Graph was not validated successfully
+15:57:07.879015 Graph was not validated successfully
+15:57:07.884168 Graph was connected successfully.
+15:57:07.884424 Map was validated successfully
+15:57:07.886257 Graph was not validated successfully
+15:57:07.886708 Map was not saved successfully.
+16:06:37.954628 Graph was connected successfully.
+16:06:37.957574 Map was validated successfully
+16:06:37.969665 Graph was not validated successfully
+16:06:37.971777 Graph was connected successfully.
+16:06:37.972765 Graph was not validated successfully
+16:06:37.983842 Graph was not validated successfully
+16:06:37.985677 Graph was connected successfully.
+16:06:37.985871 Map was validated successfully
+16:06:37.987265 Graph was not validated successfully
+16:06:37.987658 Map was not saved successfully.
+16:07:29.612347 Graph was connected successfully.
+16:07:29.618965 Map was validated successfully
+16:07:29.627082 Graph was not validated successfully
+16:07:29.633073 Graph was connected successfully.
+16:07:29.635159 Graph was not validated successfully
+16:07:29.644414 Graph was not validated successfully
+16:07:29.646118 Graph was connected successfully.
+16:07:29.646317 Map was validated successfully
+16:07:29.647581 Graph was not validated successfully
+16:07:29.647937 Map was not saved successfully.
